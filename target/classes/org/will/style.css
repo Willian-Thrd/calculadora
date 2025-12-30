@@ -1,0 +1,14 @@
+#background {
+    -fx-background-color: silver;
+}
+
+#visor {
+    -fx-background-color: white;
+    -fx-background-radius: 25pt;
+    -fx-border-radius: 25pt;
+}
+
+.buttons {
+    -fx-background-radius: 25pt;
+    -fx-border-radius: 25pt
+}
